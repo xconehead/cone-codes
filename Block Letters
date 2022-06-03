@@ -1,0 +1,17 @@
+# Jasmin Cone
+# I love to dance
+
+print("""
+
+     J     CCC
+     J    C   C
+     J    C
+     J    C
+     J    C
+ J   J    C   C
+  J J      CCC  
+
+    
+
+  """
+  )
